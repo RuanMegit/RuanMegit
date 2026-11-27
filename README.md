@@ -18,7 +18,7 @@
   <a href="https://github.com/RuanMegit">
     <img src="https://img.shields.io/badge/GitHub-RuanMegit-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/ruan-megit-385256349/">
+  <a href="https://www.linkedin.com/in/ruan-megit-385256349/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="ruanmegit123@gmail.com">
